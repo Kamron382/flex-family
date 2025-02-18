@@ -1,0 +1,36 @@
+header,footer{
+    background-color: black;
+    display: flex;justify-content: space-around;
+    
+}
+.headd{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 400px;
+    
+}
+main{
+display: flex;
+flex-wrap: wrap;
+
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.mainn{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-around;
+    justify-content: space-around;
+}
+
+
+
+.mainn div{
+    width: 393px;
+    height: 380px;
+}
